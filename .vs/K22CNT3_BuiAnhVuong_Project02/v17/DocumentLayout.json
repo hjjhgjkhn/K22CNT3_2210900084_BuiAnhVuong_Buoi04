@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_buianhvuong_project02_buoi04\\k22cnt3_buianhvuong_project02\\k22cnt3_buianhvuong_project02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|solutionrelative:k22cnt3_buianhvuong_project02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_buianhvuong_project02_buoi04\\k22cnt3_buianhvuong_project02\\k22cnt3_buianhvuong_project02\\controllers\\bavcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|solutionrelative:k22cnt3_buianhvuong_project02\\controllers\\bavcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_buianhvuong_project02_buoi04\\k22cnt3_buianhvuong_project02\\k22cnt3_buianhvuong_project02\\views\\bav_dien_thoai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|solutionrelative:k22cnt3_buianhvuong_project02\\views\\bav_dien_thoai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_buianhvuong_project02_buoi04\\k22cnt3_buianhvuong_project02\\k22cnt3_buianhvuong_project02\\views\\bav_dien_thoai\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|solutionrelative:k22cnt3_buianhvuong_project02\\views\\bav_dien_thoai\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_buianhvuong_project02_buoi04\\k22cnt3_buianhvuong_project02\\k22cnt3_buianhvuong_project02\\views\\bavcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|solutionrelative:k22cnt3_buianhvuong_project02\\views\\bavcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_buianhvuong_project02_buoi04\\k22cnt3_buianhvuong_project02\\k22cnt3_buianhvuong_project02\\controllers\\bav_dien_thoaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|solutionrelative:k22cnt3_buianhvuong_project02\\controllers\\bav_dien_thoaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_buianhvuong_project02_buoi04\\k22cnt3_buianhvuong_project02\\k22cnt3_buianhvuong_project02\\models\\ct_hoa_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|solutionrelative:k22cnt3_buianhvuong_project02\\models\\ct_hoa_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_buianhvuong_project02_buoi04\\k22cnt3_buianhvuong_project02\\k22cnt3_buianhvuong_project02\\models\\bavcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|solutionrelative:k22cnt3_buianhvuong_project02\\models\\bavcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_buianhvuong_project02_buoi04\\k22cnt3_buianhvuong_project02\\k22cnt3_buianhvuong_project02\\models\\bavmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|solutionrelative:k22cnt3_buianhvuong_project02\\models\\bavmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_buianhvuong_project02_buoi04\\k22cnt3_buianhvuong_project02\\k22cnt3_buianhvuong_project02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|solutionrelative:k22cnt3_buianhvuong_project02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_buianhvuong_project02_buoi04\\k22cnt3_buianhvuong_project02\\k22cnt3_buianhvuong_project02\\views\\bavcart\\thongtinthanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|solutionrelative:k22cnt3_buianhvuong_project02\\views\\bavcart\\thongtinthanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_buianhvuong_project02_buoi04\\k22cnt3_buianhvuong_project02\\k22cnt3_buianhvuong_project02\\bussiness\\bav_shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|solutionrelative:k22cnt3_buianhvuong_project02\\bussiness\\bav_shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_buianhvuong_project02_buoi04\\k22cnt3_buianhvuong_project02\\k22cnt3_buianhvuong_project02\\views\\bavcart\\camon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|solutionrelative:k22cnt3_buianhvuong_project02\\views\\bavcart\\camon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|c:\\users\\admin\\desktop\\k22cnt3_buianhvuong_project02_buoi04\\k22cnt3_buianhvuong_project02\\k22cnt3_buianhvuong_project02\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C54760A1-311D-4BB8-B988-92A5526D8122}|K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02.csproj|solutionrelative:k22cnt3_buianhvuong_project02\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BAVCartController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Controllers\\BAVCartController.cs",
+              "RelativeDocumentMoniker": "K22CNT3_BuiAnhVuong_Project02\\Controllers\\BAVCartController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Controllers\\BAVCartController.cs",
+              "RelativeToolTip": "K22CNT3_BuiAnhVuong_Project02\\Controllers\\BAVCartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:04:51.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Views\\BAV_DIEN_THOAI\\Edit.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_BuiAnhVuong_Project02\\Views\\BAV_DIEN_THOAI\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Views\\BAV_DIEN_THOAI\\Edit.cshtml",
+              "RelativeToolTip": "K22CNT3_BuiAnhVuong_Project02\\Views\\BAV_DIEN_THOAI\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T08:51:40.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "K22CNT3_BuiAnhVuong_Project02\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "K22CNT3_BuiAnhVuong_Project02\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:35:48.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_BuiAnhVuong_Project02\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "K22CNT3_BuiAnhVuong_Project02\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T05:05:41.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Views\\BAV_DIEN_THOAI\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_BuiAnhVuong_Project02\\Views\\BAV_DIEN_THOAI\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Views\\BAV_DIEN_THOAI\\Index.cshtml",
+              "RelativeToolTip": "K22CNT3_BuiAnhVuong_Project02\\Views\\BAV_DIEN_THOAI\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T05:13:59.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CT_HOA_DON.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Models\\CT_HOA_DON.cs",
+              "RelativeDocumentMoniker": "K22CNT3_BuiAnhVuong_Project02\\Models\\CT_HOA_DON.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Models\\CT_HOA_DON.cs",
+              "RelativeToolTip": "K22CNT3_BuiAnhVuong_Project02\\Models\\CT_HOA_DON.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:10:52.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BAV_DIEN_THOAIController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Controllers\\BAV_DIEN_THOAIController.cs",
+              "RelativeDocumentMoniker": "K22CNT3_BuiAnhVuong_Project02\\Controllers\\BAV_DIEN_THOAIController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Controllers\\BAV_DIEN_THOAIController.cs",
+              "RelativeToolTip": "K22CNT3_BuiAnhVuong_Project02\\Controllers\\BAV_DIEN_THOAIController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:11:52.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Views\\BAVCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_BuiAnhVuong_Project02\\Views\\BAVCart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Views\\BAVCart\\Index.cshtml",
+              "RelativeToolTip": "K22CNT3_BuiAnhVuong_Project02\\Views\\BAVCart\\Index.cshtml",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAADQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T06:09:43.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BAVCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Models\\BAVCartItem.cs",
+              "RelativeDocumentMoniker": "K22CNT3_BuiAnhVuong_Project02\\Models\\BAVCartItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Models\\BAVCartItem.cs",
+              "RelativeToolTip": "K22CNT3_BuiAnhVuong_Project02\\Models\\BAVCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:00:02.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BAVModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Models\\BAVModel.edmx",
+              "RelativeDocumentMoniker": "K22CNT3_BuiAnhVuong_Project02\\Models\\BAVModel.edmx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Models\\BAVModel.edmx [Diagram1]",
+              "RelativeToolTip": "K22CNT3_BuiAnhVuong_Project02\\Models\\BAVModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-12T05:04:13.09Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThongTinThanhToan.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Views\\BAVCart\\ThongTinThanhToan.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_BuiAnhVuong_Project02\\Views\\BAVCart\\ThongTinThanhToan.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Views\\BAVCart\\ThongTinThanhToan.cshtml",
+              "RelativeToolTip": "K22CNT3_BuiAnhVuong_Project02\\Views\\BAVCart\\ThongTinThanhToan.cshtml",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAGcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T06:16:52.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BAV_ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Bussiness\\BAV_ShoppingCart.cs",
+              "RelativeDocumentMoniker": "K22CNT3_BuiAnhVuong_Project02\\Bussiness\\BAV_ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Bussiness\\BAV_ShoppingCart.cs",
+              "RelativeToolTip": "K22CNT3_BuiAnhVuong_Project02\\Bussiness\\BAV_ShoppingCart.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:55:50.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CamOn.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Views\\BAVCart\\CamOn.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_BuiAnhVuong_Project02\\Views\\BAVCart\\CamOn.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Views\\BAVCart\\CamOn.cshtml",
+              "RelativeToolTip": "K22CNT3_BuiAnhVuong_Project02\\Views\\BAVCart\\CamOn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T06:25:15.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Content\\bootstrap.css",
+              "RelativeDocumentMoniker": "K22CNT3_BuiAnhVuong_Project02\\Content\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\K22CNT3_BuiAnhVuong_Project02_Buoi04\\K22CNT3_BuiAnhVuong_Project02\\K22CNT3_BuiAnhVuong_Project02\\Content\\bootstrap.css",
+              "RelativeToolTip": "K22CNT3_BuiAnhVuong_Project02\\Content\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-12T05:05:19.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
